@@ -326,3 +326,25 @@
 [ 2024-12-27 01:41:51,077 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
 [ 2024-12-27 01:41:51,277 ] Using spritesheet cache size of 910
 [ 2024-12-27 01:41:52,203 ] Asset loading complete
+[ 2024-12-27 01:44:13,482 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-12-27 01:44:13,686 ] Using spritesheet cache size of 910
+[ 2024-12-27 01:44:14,638 ] Asset loading complete
+[ 2024-12-27 01:44:25,657 ] News query failed: "Unrecognized event news."
+[ 2024-12-27 01:44:27,282 ] BattlEye: "Initialized (v1.249)"
+[ 2024-12-27 01:44:27,282 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2024-12-27 01:44:27,282 ] BattlEye: "Restarting client is necessary, update required"
+[ 2024-12-27 01:44:27,282 ] BattlEye: "Config entry: GameID tibia"
+[ 2024-12-27 01:44:27,282 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2024-12-27 01:44:27,322 ] Request connection to gameserver  "tcp://192.168.1.64:7172"  (unprotected:  "tcp://192.168.1.64:7172" )  requested (Charakter "King Theodoric" )
+[ 2024-12-27 01:44:27,327 ] Request connection to gameserver  "tcp://192.168.1.64:7172" "Astrixus"
+[ 2024-12-27 01:44:27,340 ] Connected to gameserver  "tcp://192.168.1.64:7172" "Astrixus"
+[ 2024-12-27 01:44:30,422 ] News query failed: "Unrecognized event news."
+[ 2024-12-27 01:44:45,596 ] Connection to gameserver  "tcp://192.168.1.64:7172" "Astrixus"  was disconnected ( "The remote host closed the connection" )
+[ 2024-12-27 01:44:45,642 ] Disconnected from gameserver
+[ 2024-12-27 01:47:01,314 ] Request connection to gameserver  "tcp://192.168.1.64:7172"  (unprotected:  "tcp://192.168.1.64:7172" )  requested (Charakter "King Theodoric" )
+[ 2024-12-27 01:47:01,316 ] Request connection to gameserver  "tcp://192.168.1.64:7172" "Astrixus"
+[ 2024-12-27 01:47:01,327 ] Connected to gameserver  "tcp://192.168.1.64:7172" "Astrixus"
+[ 2024-12-27 01:47:02,285 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://136.175.69.147/login.php") ) due to too many retries.
+[ 2024-12-27 01:47:02,887 ] News query failed: "Unrecognized event news."
+[ 2024-12-27 01:55:34,397 ] Connection to gameserver  "tcp://192.168.1.64:7172" "Astrixus"  was disconnected ( "The remote host closed the connection" )
+[ 2024-12-27 01:55:34,453 ] Disconnected from gameserver
